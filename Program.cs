@@ -15,15 +15,25 @@ namespace Magic8Ball
       };
 
       Console.WriteLine("Welcome to my Magic 8 Ball!");
-      Console.WriteLine("Ask any yes or no question you want and press Enter");
-      string? question = Console.ReadLine();
 
-      Random random = new Random();
-      int index = random.Next(responses.Length);
-      string answer = responses[index];
+      while (true)
+      {
+        Console.WriteLine("Ask any yes or no question you want and press Enter");
+        string? question = Console.ReadLine();
 
-      Console.WriteLine($"Magic 8 Ball says: {answer}");
+        if (string.IsNullOrEmpty(question) || question.ToLower() == "Exit")
+        {
+          Console.WriteLine("Goodbye!");
+          break;
+        }
 
+        Random random = new Random();
+        int index = random.Next(responses.Length);
+        string answer = responses[index];
+
+        Console.WriteLine($"Magic 8 Ball says: {answer}");
+
+      }
     }
   }
 }

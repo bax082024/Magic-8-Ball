@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Magic-8-Ball")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+273943f7639a94210304b88bcd2bb96c8bc4f26e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a86f1a2bc421b6284929c80028156498f6f7e337")]
 [assembly: System.Reflection.AssemblyProductAttribute("Magic-8-Ball")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Magic-8-Ball")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

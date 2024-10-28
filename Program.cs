@@ -14,6 +14,12 @@ namespace Magic8Ball
         "Dont even think about it", "Thats just stupid"
       };
 
+      Console.WriteLine("Welcome to my Magic 8 Ball!");
+      Console.WriteLine("Ask any yes or no question you want and press Enter");
+      string question = Console.ReadLine();
+
+      
+
     }
   }
 }

@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\bin\Debug\net8.0\Magic-8-Ball.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\bin\Debug\net8.0\Magic-8-Ball.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\bin\Debug\net8.0\Magic-8-Ball.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\bin\Debug\net8.0\Magic-8-Ball.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\bin\Debug\net8.0\Magic-8-Ball.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\refint\Magic-8-Ball.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\Magic-8-Ball.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\Magic-8-Ball\obj\Debug\net8.0\ref\Magic-8-Ball.dll

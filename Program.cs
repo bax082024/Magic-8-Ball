@@ -14,16 +14,16 @@ namespace Magic8Ball
         "Dont even think about it", "Thats just stupid"
       };
 
-      Console.WriteLine("Welcome to my Magic 8 Ball!");
+      Console.WriteLine("🔮 Welcome to the Magic 8 Ball! 🔮\n");
 
       while (true)
       {
-        Console.WriteLine("Ask any yes or no question you want and press Enter");
+        Console.WriteLine("Ask any yes or no question you want and press Enter (or type 'exit' to quit):\n");
         string? question = Console.ReadLine();
 
-        if (string.IsNullOrEmpty(question) || question.ToLower() == "Exit")
+        if (string.IsNullOrEmpty(question) || question.ToLower() == "exit")
         {
-          Console.WriteLine("Goodbye!");
+          Console.WriteLine("Goodbye! Thanks for playing 🔮");
           break;
         }
 
@@ -31,7 +31,8 @@ namespace Magic8Ball
         int index = random.Next(responses.Length);
         string answer = responses[index];
 
-        Console.WriteLine($"Magic 8 Ball says: {answer}");
+        Console.WriteLine($"\nMagic 8 Ball says: ✨ {answer} ✨\n");
+        Console.WriteLine("-------------------------------------------------\n");
 
       }
     }
